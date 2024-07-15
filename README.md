@@ -11,7 +11,7 @@ Basta realizar o select de etnia, idade e sexo da "pessoa" e solicitar a geraç�
 
 ## 🚀 Resultados
 [Imagem 01](https://ibb.co/Tr4VnPt)
-[Imagem 02]([https://ibb.co/Tr4VnPt](https://ibb.co/p0x71q9))
+[Imagem 02](https://ibb.co/p0x71q9w)
 
 ## 💭 Reflexão (Opcional)
 Necessário o uso cuidadoso da I.A em relação à alguns tipos de serviços que ela oferece!
