@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Ser Humano gerado por Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Realizado a geração de imagens de ser humanos que não existem 🤖
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[Gerador de Pessoas IA](https://this-person-does-not-exist.com/pt)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Basta realizar o select de etnia, idade e sexo da "pessoa" e solicitar a geração da imagem 🤯 e será apresentado um ser humano que não existe (bizarro)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Imagem 01](https://ibb.co/Tr4VnPt)
+[Imagem 02]([https://ibb.co/Tr4VnPt](https://ibb.co/p0x71q9))
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Necessário o uso cuidadoso da I.A em relação à alguns tipos de serviços que ela oferece!
